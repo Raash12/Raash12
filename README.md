@@ -23,5 +23,5 @@ I'm a passionate full-stack developer. I thrive on creating captivating user exp
 ## Socials
 
 [Your GitHub](https://github.com/Raazh12)  
- [X](https://www.X.com/@Raazh31)
+ [X](https://x.com/Raazh31?)
 
