@@ -24,3 +24,6 @@ I'm a passionate full-stack developer. I thrive on creating captivating user exp
 [Your GitHub](https://github.com/Raazh12)  
  [X](https://x.com/Raazh31)
 
+ Gh github
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Raash12=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
