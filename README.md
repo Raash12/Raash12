@@ -19,7 +19,5 @@ I'm a passionate full-stack developer. I thrive on creating captivating user exp
 - Sass
 - Tailwind CSS
 
-## Socials
-
-[Your GitHub](https://github.com/Raazh12)  
+ 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raash12)](https://github.com/anuraghazra/github-readme-stats)
