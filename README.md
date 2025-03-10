@@ -8,16 +8,25 @@ I'm a passionate full-stack developer. I thrive on creating captivating user exp
 
 ## Skills
 
+
 - JavaScript
 - Git
+- php
 - TypeScript
-- HTML5
+- HTML
+- css
 - React
+- node js
 - Next.js
 - Dart
-- Sass
+- Saas
 - Java 
 - python
+- postgress
+- Mongodb
+- Mysql
+- Prisma
+  
   
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raash12)](https://github.com/anuraghazra/github-readme-stats)
