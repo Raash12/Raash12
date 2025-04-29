@@ -13,23 +13,22 @@ I'm a passionate full-stack developer. I thrive on creating captivating user exp
 HTML5  |  CSS3 (SASS/SCSS)  |  JavaScript  |  TypeScript
 React.js  |  Next.js  |  Tailwind CSS  |  Bootstrap
 
-🧰 # Backend Development
-
+# 🧰 Backend Development
 Node.js  |  PHP  |  Java  |  Python
 Express.js  |  Prisma
-🛢️#  Databases
 
+# 🛢️ Databases
 PostgreSQL  |  MongoDB  |  MySQL
 
-🚀 # Tools & Platforms
+# 🚀 Tools & Platforms
 
 Git  |  GitHub  |  Firebase  |  REST APIs
 
-☁️ # Deployment & Hosting
+# ☁️ Deployment & Hosting
 
 Vercel  |  Netlify  |  Heroku  |  Render  |  cPanel
 
-🌐 # Other Technologies
+# 🌐 Other Technologies
 
 Dart  |  SASS  |  JSON  |  AJAX
 
