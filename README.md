@@ -6,26 +6,27 @@ I'm a passionate full-stack developer. I thrive on creating captivating user exp
 
 🌍 I'm based in Somalia: Mogadishu   
 
-## Skills
+🛠️ Skills
+💻 Frontend Development
 
+HTML5  |  CSS3 (SASS/SCSS)  |  JavaScript  |  TypeScript
+React.js  |  Next.js  |  Tailwind CSS  |  Bootstrap
+🧰 Backend Development
 
-- JavaScript
-- Git
-- php
-- TypeScript
-- HTML
-- css
-- React
-- node js
-- Next.js
-- Dart
-- Saas
-- Java 
-- python
-- postgress
-- Mongodb
-- Mysql
-- Prisma
+Node.js  |  PHP  |  Java  |  Python
+Express.js  |  Prisma
+🛢️ Databases
+
+PostgreSQL  |  MongoDB  |  MySQL
+🚀 Tools & Platforms
+
+Git  |  GitHub  |  Firebase  |  REST APIs
+☁️ Deployment & Hosting
+
+Vercel  |  Netlify  |  Heroku  |  Render  |  cPanel
+🌐 Other Technologies
+
+Dart  |  SASS  |  JSON  |  AJAX
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raash12&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
