@@ -7,8 +7,8 @@ I'm a passionate full-stack developer. I thrive on creating captivating user exp
 🌍 I'm based in Somalia: Mogadishu   
 
 
-🛠️ Skills
-💻 # Frontend Development
+# 🛠️ Skills
+# 💻 Frontend Development
 
 HTML5  |  CSS3 (SASS/SCSS)  |  JavaScript  |  TypeScript
 React.js  |  Next.js  |  Tailwind CSS  |  Bootstrap
