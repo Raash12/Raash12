@@ -27,4 +27,5 @@ I'm a passionate full-stack developer. I thrive on creating captivating user exp
 - Mysql
 - Prisma
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Raash12=anuraghazra&show_icons=true&theme=radical)
+![Raash12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raash12&show_icons=true&theme=radical)
+
