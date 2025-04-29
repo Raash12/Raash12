@@ -26,4 +26,5 @@ I'm a passionate full-stack developer. I thrive on creating captivating user exp
 - Mongodb
 - Mysql
 - Prisma
-  
+
+  (https://github-readme-stats.vercel.app/api?username=Raash12=true&theme=radical)
