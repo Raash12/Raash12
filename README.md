@@ -14,8 +14,8 @@ HTML5  |  CSS3 (SASS/SCSS)  |  JavaScript  |  TypeScript
 React.js  |  Next.js  |  Tailwind CSS  |  Bootstrap
 
 # 🧰 Backend Development
-Node.js  |  PHP  |  Java  |  Python
-Express.js  |  Prisma
+Node.js  Express.js  |  PHP  |  Java  |  Python
+ |  Prisma
 
 # 🛢️ Databases
 PostgreSQL  |  MongoDB  |  MySQL
